@@ -2,8 +2,6 @@
 
 An end-to-end data warehousing and analytics solution built with SQL Server, covering everything from raw data ingestion to business-ready reporting. This is my own implementation of the project, built as a portfolio piece to demonstrate data engineering and analytics skills.
 
-> **Credit:** This project is based on the open-source *SQL Data Warehouse Project* by [Baraa Khatib Salkini (Data With Baraa)](https://github.com/DataWithBaraa/sql-data-warehouse-project), released under the MIT License. The architecture and dataset follow the original tutorial; the implementation, documentation, and extensions in this repository are my own.
-
 ---
 
 ## 🏗️ Data Architecture
